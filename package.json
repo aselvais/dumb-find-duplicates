@@ -1,0 +1,17 @@
+{
+  "name": "find-duplicates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "find-duplicate.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.14.10"
+  },
+  "scripts": {
+    "run": "node find-duplicates.js",
+    "build": "tsc find-duplicates.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
